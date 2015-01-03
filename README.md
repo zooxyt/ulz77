@@ -35,9 +35,9 @@ Matched length  Encoded value
 
 Features
 --------
-LZ77 encoding and decoding
-Stream support
-File compression/decompression support
+1. LZ77 encoding and decoding
+2. Stream support
+3. File compression/decompression support
 
 
 Usage
